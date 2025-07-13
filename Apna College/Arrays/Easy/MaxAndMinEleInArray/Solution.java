@@ -1,4 +1,4 @@
-package MaxAndMinEleInArray;
+// package MaxAndMinEleInArray;
 
 public class Solution {
 
