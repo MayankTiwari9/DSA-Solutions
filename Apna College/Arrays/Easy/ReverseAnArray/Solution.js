@@ -1,5 +1,5 @@
-// let arr = [ 1, 4, 3, 2, 6, 5 ];
-let arr = [4, 5, 2];
+let arr = [ 1, 4, 3, 2, 6, 5 ];
+// let arr = [4, 5, 2];
 // let arr = [1];
 
 function solution(arr) {
